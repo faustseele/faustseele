@@ -1,9 +1,9 @@
 [Telegram](https://t.me/iseelogos) · [По-русски ➡️](README.md)
 
-> Frontend Developer · TypeScript · React · Vanilla JS
+> Frontend-разработчик · TypeScript · React/Redux · Vanilla JS
 
 ### Skills
-* **Core:** TypeScript (strict, generics, type guards), JavaScript (ES2024), React, Zustand, Vite, REST, WebSocket.
+* **Core:** TypeScript (strict, generics, type guards), JavaScript (ES2024), React/Redux, Vite, REST, WebSocket.
 * **Architecture:** Feature-Sliced Design, Dependency Injection, EventBus (pub/sub), UI ↔ State ↔ Data separation.
 * **Styles & UI:** Tailwind, CSS Modules, BEM, Grid/Flex, Figma (UI/UX, vector graphics).
 * **Infra & QA:** Vitest, CI/CD (GitHub Actions), Netlify, Lighthouse / Web Vitals.

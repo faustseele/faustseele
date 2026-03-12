@@ -1,9 +1,9 @@
 [Телеграм](https://t.me/iseelogos) · [For English ➡️](README.en.md)
 
-> Frontend-разработчик · TypeScript · React · Vanilla JS
+> Frontend-разработчик · TypeScript · React/Redux · Vanilla JS
 
 ### Скиллы
-* **Core:** TypeScript (strict, generics, type guards), JavaScript (ES2024), React, Zustand, Vite, REST, WebSocket.
+* **Core:** TypeScript (strict, generics, type guards), JavaScript (ES2024), React, Redux, Vite, REST, WebSocket.
 * **Архитектура:** Feature-Sliced Design, Dependency Injection, EventBus (pub/sub), разделение UI ↔ State ↔ Data.
 * **Стили & UI:** Tailwind, CSS Modules, BEM, Grid/Flex, Figma (UI/UX, векторная графика).
 * **Infra & QA:** Vitest, CI/CD (GitHub Actions), Netlify, Lighthouse / Web Vitals.
