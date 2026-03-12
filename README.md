@@ -1,51 +1,33 @@
-Hullo. [Телеграм ➡️](t.me/iseelogos) · [For English ➡️](README.en.md)
+[Телеграм](https://t.me/iseelogos) · [For English ➡️](README.en.md)
 
-> Frontend-разработчик · TypeScript · React · TDLib;
+> Frontend-разработчик · TypeScript · React · Vanilla JS
 
 ### Скиллы
-* **Core & Tech:** TypeScript (Strict, Generics, Guards), JavaScript (ES202x), React, Zustand, Redux, Vite, REST, WebSocket/SSE.
-* **Архитектура:** Feature-Sliced Design (FSD), Dependency Injection (DI), EventBus (Pub/Sub), UI ↔ State ↔ Data.
+* **Core:** TypeScript (strict, generics, type guards), JavaScript (ES2024), React, Zustand, Vite, REST, WebSocket.
+* **Архитектура:** Feature-Sliced Design, Dependency Injection, EventBus (pub/sub), разделение UI ↔ State ↔ Data.
 * **Стили & UI:** Tailwind, CSS Modules, BEM, Grid/Flex, Figma (UI/UX, векторная графика).
-* **Infra & QA:** Vitest (TDD), CI/CD (GitHub Actions), Netlify, SQLite, Lighthouse / Web Vitals.
-
-### Стиль кодинга 
-* **Ясность:** Пишу доходчивый, декомпозированный код (JSDoc) без глубокого нестинга, guard clauses и строгие булевы проверки.
-* **Адаптивность:** Интересно перенимать устоявшиеся паттерны для написание софта. 
-* **Слабые связи:** Проектирую модули с явными границами ответственности. Бизнес-логика -> сервисы, компоненты остаются тонкими.
-* **Аналитический подход:** Занимаюсь архитектурными вопросами и концептуализацией (бекграунд: философия, Advanced English, C1 German).
+* **Infra & QA:** Vitest, CI/CD (GitHub Actions), Netlify, Lighthouse / Web Vitals.
 
 ---
 
-### Что готово уже сейчас
+### Проекты
 
-#### **[mmpy.chat](https://github.com/faustseele/mmpy.chat) 💌**; [Лайв-ссылка](https://mmpy-chat.netlify.app/)
-> *Stack: TypeScript | Handlebars | CSS Modules | Vite | XHR | WebSocket*
+#### [mmpy.chat](https://github.com/faustseele/mmpy.chat) · [демо с гостевым модом](https://mmpy-chat.netlify.app/) · [свой дизайн](https://www.figma.com/design/SaTdkvEMsWoRl2dZn7S9Ab/mmpy-chat?node-id=0-1&t=PrP08m0m5Cfj2EMi-1)
+> TypeScript · Handlebars · CSS Modules · Vite · WebSocket
 
-Стильный real-time мессенджер, созданный с нуля без React/Vue. 
-* **Vanilla Core:** Самописная компонентная система (EventBus, Lifecycle, DI), кастомный реактивный Store и History API роутер.
-* **Что умеет:** Авторизация, CRUD профиля, real-time чаты через WebSocket, i18n на 7 языков.
-* **Архитектура:** Жесткое разделение на слои по методологии FSD.
+Real-time мессенджер, собранный с нуля без фреймворков.
+* Самописная компонентная система: EventBus-lifecycle, DI, реактивный Store, History API роутер.
+* Авторизация, CRUD профиля, чаты через WebSocket, i18n (7 языков).
+* Строгое разделение на слои по FSD; strict TS, 100 % типизация.
 
----
+#### [Diane](https://github.com/faustseele/diane) · [демо](https://diane.netlify.app/)
+> React · Zustand · Tailwind · Supabase
 
-### 🏗 А что разработке
-
-#### **Diane** ♾️
-> *Stack: React | React Native | Zustand | Tailwind | Supabase*
-
-Chat-based система ведения персональной базы знаний в виде единой бесконечной ленты.
-* **Zero-Friction & Anti-Features:** Мгновенный ввод, обязательное тегирование и жесткий запрет на copy-paste для стимуляции активного мышления.
+Персональная база знаний в формате бесконечной ленты.
+* Мгновенный ввод, обязательное тегирование, запрет copy-paste — стимулирует формулирование своими словами.
+* Auth, realtime-синхронизация и полнотекстовый поиск через Supabase.
 
 ---
 
-#### **CWYS (Control What You See)** 👁️
-> *Методология и open-source middleware*
-
-Радикальный контроль над UX: деконструирует перегруженные супер-аппы на независимые UI-компоненты (модули) с помощью семантического Middleware.
-
----
-
-#### **Glider** 🪁
-> *Stack: TDLib (Telegram API) | CWYS Middleware*
-
-Практический MVP методологии CWYS: минималистичный модульный клиент Telegram, разбивающий монолитный опыт на изолированные UX-блоки.
+### Обо мне
+Пишу декомпозированный код без лишнего нестинга: guard clauses, строгие булевы проверки, тонкие компоненты, бизнес-логика в сервисах. Бэкграунд в философии — помогает структурировать архитектурные решения и документацию. English (Advanced), Deutsch (C1, международный сертификат).

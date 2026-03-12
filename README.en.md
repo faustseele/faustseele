@@ -1,50 +1,33 @@
-Hullo. [По-русски ➡️](README.md)
+[Telegram](https://t.me/iseelogos) · [По-русски ➡️](README.md)
 
-> Frontend-разработчик · TypeScript · React · TDLib;
+> Frontend Developer · TypeScript · React · Vanilla JS
 
 ### Skills
-* **Core & Tech:** TypeScript (Strict, Generics, Guards), JavaScript (ES202x), React, Zustand, Redux, Vite, REST, WebSocket/SSE.
-* **Architecture:** Feature-Sliced Design (FSD), Dependency Injection (DI), EventBus (Pub/Sub), UI ↔ State ↔ Data.
+* **Core:** TypeScript (strict, generics, type guards), JavaScript (ES2024), React, Zustand, Vite, REST, WebSocket.
+* **Architecture:** Feature-Sliced Design, Dependency Injection, EventBus (pub/sub), UI ↔ State ↔ Data separation.
 * **Styles & UI:** Tailwind, CSS Modules, BEM, Grid/Flex, Figma (UI/UX, vector graphics).
-* **Infra & QA:** Vitest (TDD), CI/CD (GitHub Actions), Netlify, SQLite, Lighthouse / Web Vitals.
-
-### Coding Style
-* **Clarity:** I write clear, decomposed code (JSDoc) without deep nesting, using guard clauses and strict boolean checks.
-* **Adaptability:** I enjoy adopting established patterns for writing software.
-* **Loose Coupling:** I design modules with explicit responsibility boundaries. Business logic → services, components remain thin.
-* **Analytical Approach:** I work on architectural questions and conceptualization (background: philosophy, Advanced English, C1 German).
+* **Infra & QA:** Vitest, CI/CD (GitHub Actions), Netlify, Lighthouse / Web Vitals.
 
 ---
 
-### What’s already ready
+### Projects
 
-#### **[mmpy.chat](https://github.com/faustseele/mmpy.chat) 💌**
-> *Stack: TypeScript | Handlebars | CSS Modules | Vite | XHR | WebSocket*
+#### [mmpy.chat](https://github.com/faustseele/mmpy.chat) · [live](https://mmpy-chat.netlify.app/) · [homemade design](https://www.figma.com/design/SaTdkvEMsWoRl2dZn7S9Ab/mmpy-chat?node-id=0-1&t=PrP08m0m5Cfj2EMi-1)
+> TypeScript · Handlebars · CSS Modules · Vite · WebSocket
 
-A stylish real-time messenger built from scratch without React/Vue.  
-* **Vanilla Core:** A custom component system (EventBus, Lifecycle, DI), a custom reactive Store, and a History API router.
-* **Architecture:** Strict separation into layers according to the FSD methodology.
+A real-time messenger built from scratch with no frameworks.
+* Custom component system: EventBus lifecycle, DI, reactive Store, History API router.
+* Auth, profile CRUD, WebSocket chat, i18n (7 languages).
+* Strict layer separation via FSD; strict TS, fully typed.
 
----
+#### [Diane](https://github.com/faustseele/diane) · [live](https://diane.netlify.app/)
+> React · Zustand · Tailwind · Supabase
 
-### 🏗 What’s under development
-
-#### **Diane** ♾️
-> *Stack: React | React Native | Zustand | Tailwind | Supabase*
-
-A chat-based system for maintaining a personal knowledge base in the form of a single infinite feed.  
-* **Zero-Friction & Anti-Features:** Instant input, mandatory tagging, and a strict ban on copy-paste to stimulate active thinking.
+A personal knowledge base as an infinite feed.
+* Instant input, mandatory tagging, copy-paste ban — encourages active formulation.
+* Auth, realtime sync and full-text search via Supabase.
 
 ---
 
-#### **CWYS (Control What You See)** 👁️
-> *Methodology and open-source middleware*
-
-Radical control over UX: deconstructs overloaded super-apps into independent UI components (modules) using semantic middleware.
-
----
-
-#### **Glider** 🪁
-> *Stack: TDLib (Telegram API) | CWYS Middleware*
-
-A practical MVP of the CWYS methodology: a minimalist modular Telegram client that breaks the monolithic experience into isolated UX blocks.
+### About
+I write decomposed code with no unnecessary nesting: guard clauses, strict boolean checks, thin components, business logic in services. Background in philosophy — helps structure architectural decisions and documentation. English (Advanced), German (C1).
