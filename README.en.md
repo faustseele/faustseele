@@ -12,7 +12,7 @@
 
 ### Projects
 
-#### [mmpy.chat](https://github.com/faustseele/mmpy.chat) · [live](https://mmpy-chat.netlify.app/) · [homemade design](https://www.figma.com/design/SaTdkvEMsWoRl2dZn7S9Ab/mmpy-chat?node-id=0-1&t=PrP08m0m5Cfj2EMi-1)
+#### [mmpy.chat](https://github.com/faustseele/mmpy.chat) · [live with guest-mode](https://mmpy-chat.netlify.app/) · [homemade design](https://www.figma.com/design/SaTdkvEMsWoRl2dZn7S9Ab/mmpy-chat?node-id=0-1&t=PrP08m0m5Cfj2EMi-1)
 > TypeScript · Handlebars · CSS Modules · Vite · WebSocket
 
 A real-time messenger built from scratch with no frameworks.
