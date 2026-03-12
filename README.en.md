@@ -20,13 +20,6 @@ A real-time messenger built from scratch with no frameworks.
 * Auth, profile CRUD, WebSocket chat, i18n (7 languages).
 * Strict layer separation via FSD; strict TS, fully typed.
 
-#### [Diane](https://github.com/faustseele/diane) · [live](https://diane.netlify.app/)
-> React · Zustand · Tailwind · Supabase
-
-A personal knowledge base as an infinite feed.
-* Instant input, mandatory tagging, copy-paste ban — encourages active formulation.
-* Auth, realtime sync and full-text search via Supabase.
-
 ---
 
 ### About

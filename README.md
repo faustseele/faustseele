@@ -10,7 +10,7 @@
 
 ---
 
-### Проекты
+### Проект
 
 #### [mmpy.chat](https://github.com/faustseele/mmpy.chat) · [демо с гостевым модом](https://mmpy-chat.netlify.app/) · [свой дизайн](https://www.figma.com/design/SaTdkvEMsWoRl2dZn7S9Ab/mmpy-chat?node-id=0-1&t=PrP08m0m5Cfj2EMi-1)
 > TypeScript · Handlebars · CSS Modules · Vite · WebSocket
@@ -19,13 +19,6 @@ Real-time мессенджер, собранный с нуля без фрейм
 * Самописная компонентная система: EventBus-lifecycle, DI, реактивный Store, History API роутер.
 * Авторизация, CRUD профиля, чаты через WebSocket, i18n (7 языков).
 * Строгое разделение на слои по FSD; strict TS, 100 % типизация.
-
-#### [Diane](https://github.com/faustseele/diane) · [демо](https://diane.netlify.app/)
-> React · Zustand · Tailwind · Supabase
-
-Персональная база знаний в формате бесконечной ленты.
-* Мгновенный ввод, обязательное тегирование, запрет copy-paste — стимулирует формулирование своими словами.
-* Auth, realtime-синхронизация и полнотекстовый поиск через Supabase.
 
 ---
 
