@@ -1,12 +1,14 @@
-Hullo. [For English ➡️](README.en.md)
+Hullo. [Телеграм ➡️](t.me/iseelogos) · [For English ➡️](README.en.md)
 
-### Скиллы 📐
+> Frontend-разработчик · TypeScript · React · TDLib;
+
+### Скиллы
 * **Core & Tech:** TypeScript (Strict, Generics, Guards), JavaScript (ES202x), React, Zustand, Redux, Vite, REST, WebSocket/SSE.
 * **Архитектура:** Feature-Sliced Design (FSD), Dependency Injection (DI), EventBus (Pub/Sub), UI ↔ State ↔ Data.
 * **Стили & UI:** Tailwind, CSS Modules, BEM, Grid/Flex, Figma (UI/UX, векторная графика).
 * **Infra & QA:** Vitest (TDD), CI/CD (GitHub Actions), Netlify, SQLite, Lighthouse / Web Vitals.
 
-### Стиль кодинга
+### Стиль кодинга 
 * **Ясность:** Пишу доходчивый, декомпозированный код (JSDoc) без глубокого нестинга, guard clauses и строгие булевы проверки.
 * **Адаптивность:** Интересно перенимать устоявшиеся паттерны для написание софта. 
 * **Слабые связи:** Проектирую модули с явными границами ответственности. Бизнес-логика -> сервисы, компоненты остаются тонкими.
@@ -16,11 +18,12 @@ Hullo. [For English ➡️](README.en.md)
 
 ### Что готово уже сейчас
 
-#### **[mmpy.chat](https://github.com/faustseele/mmpy.chat) 💌**
+#### **[mmpy.chat](https://github.com/faustseele/mmpy.chat) 💌**; [Лайв-ссылка](https://mmpy-chat.netlify.app/)
 > *Stack: TypeScript | Handlebars | CSS Modules | Vite | XHR | WebSocket*
 
 Стильный real-time мессенджер, созданный с нуля без React/Vue. 
 * **Vanilla Core:** Самописная компонентная система (EventBus, Lifecycle, DI), кастомный реактивный Store и History API роутер.
+* **Что умеет:** Авторизация, CRUD профиля, real-time чаты через WebSocket, i18n на 7 языков.
 * **Архитектура:** Жесткое разделение на слои по методологии FSD.
 
 ---

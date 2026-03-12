@@ -1,6 +1,8 @@
 Hullo. [По-русски ➡️](README.md)
 
-### Skills 📐
+> Frontend-разработчик · TypeScript · React · TDLib;
+
+### Skills
 * **Core & Tech:** TypeScript (Strict, Generics, Guards), JavaScript (ES202x), React, Zustand, Redux, Vite, REST, WebSocket/SSE.
 * **Architecture:** Feature-Sliced Design (FSD), Dependency Injection (DI), EventBus (Pub/Sub), UI ↔ State ↔ Data.
 * **Styles & UI:** Tailwind, CSS Modules, BEM, Grid/Flex, Figma (UI/UX, vector graphics).
