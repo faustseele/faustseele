@@ -1,4 +1,4 @@
-[Телеграм](https://t.me/iseelogos) ： [for English](README.md) ： [Deutsch](README.de.md)
+[Телеграм](https://t.me/iseelogos) ·:· [for English](README.md) ·:· [Deutsch](README.de.md)
 
 > Философ (технэ, этика, эстетика) · UX-исследователь · дизайнер · преподаватель языков
 
