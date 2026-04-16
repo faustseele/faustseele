@@ -1,12 +1,14 @@
 [Telegram](https://t.me/iseelogos) · [For English ➡️](README.md) · [По-русски ➡️](README.ru.md)
 
-> Philosoph · UX-Researcher · Designer · Sprachlehrer
+> Philosoph (Techné, Ethik, Ästhetik) · UX-Researcher · Designer · Sprachlehrer
 
 ---
 
 **[return-lastfm-shoutbox](https://github.com/faustseele/return-lastfm-shoutbox)** — Browser-Erweiterung, bringt Inline-Shouts zurück auf Last.fm-Seiten.
 
-**Glider × CWYS** · *privat* — minimales modulares Telegram-Social-Network auf mtcute, basiert auf der CWYS-Methodologie: Super-Apps in unabhängige UI-Module zerlegen, Nutzer entscheidet, was er sieht.
+**Glider** · *privat* · auf **CWYS** — minimales modulares Telegram-Social-Network auf mtcute.
+
+**CWYS**/Control What You See · *privat* — Methodologie + semantisches Middleware: Super-Apps in unabhängige UI-Module zerlegen, Nutzer entscheidet, was er sieht. Glider ist der erste darauf aufbauende Service; weitere folgen.
 
 **Diane** · *privat* — reibungsloses Chat-Style-PKM. Atomare getaggte Nachrichten, Offline-first-Sync, keine Hierarchie.
 

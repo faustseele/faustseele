@@ -1,12 +1,14 @@
 [Telegram](https://t.me/iseelogos) · [По-русски ➡️](README.ru.md) · [Deutsch ➡️](README.de.md)
 
-> Philosopher · UX researcher · designer · language tutor
+> Philosopher (techné, ethics, aesthetics) · UX researcher · designer · language tutor
 
 ---
 
 **[return-lastfm-shoutbox](https://github.com/faustseele/return-lastfm-shoutbox)** — browser extension, brings inline shouts back to Last.fm pages.
 
-**Glider × CWYS** · *private* — minimal modular Telegram social network on mtcute, built on the CWYS methodology: deconstruct super-apps into independent UI modules, user picks what to see.
+**Glider** · *private* · on **CWYS** — minimal modular Telegram social network on mtcute.
+
+**CWYS**/Control What You See · *private* — methodology + semantic middleware: deconstruct super-apps into independent UI modules, user picks what to see. Glider is the first service built on it; more to come.
 
 **Diane** · *private* — zero-friction chat-style PKM. Atomic tagged messages, offline-first sync, no hierarchy.
 
